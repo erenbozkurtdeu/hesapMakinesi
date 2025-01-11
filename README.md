@@ -7,10 +7,7 @@ This project is a calculator application developed in Java.
 - Build and project management tool: Maven
 - BDD framework: Gauge
 - Automation framework: Selenium WebDriver
-- Reporting framework: Allure
-
-## Reports
-- Allure Reports can be used for generating test execution reports.
+- Reporting framework: Allure Reports
 
 ## Installation
 1. Clone the project:
