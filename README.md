@@ -2,13 +2,6 @@
 
 This project is a calculator application developed in Java.
 
-## Features
-- Four basic operations (Addition, Subtraction, Multiplication, Division)
-- Simple and user-friendly interface
-- Includes test scenarios
-- Utilizes Selenium for UI automation
-- Uses Gauge for BDD test automation
-
 ## Technology Stack
 - Programming language: Java
 - Build and project management tool: Maven
