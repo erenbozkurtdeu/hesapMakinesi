@@ -1,0 +1,118 @@
+[
+  {
+    "key": "username",
+    "value": "div[class*='css-']:nth-of-type(2) > div[class*='css-'] > input[autocapitalize='sentences']",
+    "type": "css"
+  },
+  {
+    "key": "password",
+    "value": "div[class*='css-']:nth-of-type(3) input[autocapitalize='sentences']",
+    "type": "css"
+  },
+  {
+    "key": "loginButton",
+    "value": "div[class*='css-']:nth-of-type(4) > div[class*='css-']",
+    "type": "css"
+  },
+  {
+    "key": "openCalculatorButton",
+    "value": "div[class*='css-']:nth-of-type(2) > div[dir='auto']",
+    "type": "css"
+  },
+  {
+    "key": "acButton",
+    "value": "div[class*='css-']:nth-of-type(2) > div[class*='css-']:nth-of-type(1) > div[class*='css-'] > div[dir='auto']",
+    "type": "css"
+  },
+  {
+    "key": "plusButton",
+    "value": "div[class*='css-']:nth-of-type(2) > div[class*='css-'] > div[dir='auto']",
+    "type": "css"
+  },
+  {
+    "key": "divideButton",
+    "value": "div[class*='css-']:nth-of-type(2) > div[class*='css-']:nth-of-type(4)",
+    "type": "css"
+  },
+  {
+    "key": "sevenButton",
+    "value": "div[class*='css-']:nth-of-type(5) div[dir='auto']",
+    "type": "css"
+  },
+  {
+    "key": "eightButton",
+    "value": "div[class*='css-']:nth-of-type(6)",
+    "type": "css"
+  },
+  {
+    "key": "nineButton",
+    "value": "div[class*='css-']:nth-of-type(7)",
+    "type": "css"
+  },
+  {
+    "key": "multipleButton",
+    "value": "div[class*='css-']:nth-of-type(8)",
+    "type": "css"
+  },
+  {
+    "key": "fourButton",
+    "value": "div[class*='css-']:nth-of-type(9)",
+    "type": "css"
+  },
+  {
+    "key": "fiveButton",
+    "value": "div[class*='css-']:nth-of-type(10) div[dir='auto']",
+    "type": "css"
+  },
+  {
+    "key": "sixButton",
+    "value": "div[class*='css-']:nth-of-type(11) div[dir='auto']",
+    "type": "css"
+  },
+  {
+    "key": "subtractButton",
+    "value": "div[class*='css-']:nth-of-type(12)",
+    "type": "css"
+  },
+  {
+    "key": "oneButton",
+    "value": "div[class*='css-']:nth-of-type(13)",
+    "type": "css"
+  },
+  {
+    "key": "twoButton",
+    "value": "div[class*='css-']:nth-of-type(14) div[dir='auto']",
+    "type": "css"
+  },
+  {
+    "key": "threeButton",
+    "value": "div[class*='css-']:nth-of-type(15)",
+    "type": "css"
+  },
+  {
+    "key": "addButton",
+    "value": "div[class*='css-']:nth-of-type(16) div[dir='auto']",
+    "type": "css"
+  },
+  {
+    "key": "zeroButton",
+    "value": "div[class*='css-']:nth-of-type(17)",
+    "type": "css"
+  },
+  {
+    "key": "commaButton",
+    "value": "div[class*='css-']:nth-of-type(19)",
+    "type": "css"
+  },
+  {
+    "key": "equalButton",
+    "value": "div[class*='css-']:nth-of-type(20)",
+    "type": "css"
+  },
+  {
+    "key": "showNumber",
+    "value": "div[class*='css-']:nth-of-type(2) > div[class*='css-']:nth-of-type(1) > div[class*='css-'] > div[class*='css-'] > div[class*='css-'] > div[class*='css-'] > div[dir='auto']",
+    "type": "css"
+  }
+]
+
