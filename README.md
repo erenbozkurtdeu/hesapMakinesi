@@ -20,7 +20,7 @@ This project is a calculator application developed in Java.
    ```
 
 ## Usage
-- The tests in the `src/test` directory can be run directly.
+- The tests in the `specs/testCases` directory can be run directly.
 
 ## Contributing
 To contribute, please submit a pull request.
