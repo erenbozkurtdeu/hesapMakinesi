@@ -24,6 +24,3 @@ This project is a calculator application developed in Java.
 
 ## Contributing
 To contribute, please submit a pull request.
-
-## License
-This project is licensed under the MIT License.
