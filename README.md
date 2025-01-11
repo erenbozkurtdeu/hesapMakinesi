@@ -1,6 +1,6 @@
 # Calculator Project
 
-This project is a calculator application developed in Java and Python.
+This project is a calculator application developed in Java.
 
 ## Features
 - Four basic operations (Addition, Subtraction, Multiplication, Division)
